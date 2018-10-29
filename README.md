@@ -4,6 +4,8 @@ I was asked to do a simple whiteboard challenge while interviewing for 6 Degrees
 
 While I went off on my own path, I'm proud of the ultimate outcome. The code isnt' super-terse. I'm uncertain how performant the algorithm will be, but I'd say decent. It's definitely highly flexible. The commented out grid is the initial challenge posed and the larger grid shows that the system I came up with can easily handle additional situations without modification.
 
+Pretty much all the relevant code for this simple challenge is in `src/app/app.component.ts`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
