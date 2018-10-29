@@ -1,0 +1,27 @@
+.grid-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.grid-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  margin: 4px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.truthy {
+  background-color: green;
+}
+
+.falsy {
+  background-color: black;
+}
